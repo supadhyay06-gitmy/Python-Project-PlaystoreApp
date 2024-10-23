@@ -8,4 +8,5 @@ Analysis Process Data Preparation: Clean and preprocess the dataset to ensure ac
 Exploratory Data Analysis (EDA): Explore the dataset to identify correlations, trends, and outliers. 
 Feature Engineering: Derive new features or modify existing ones to enhance analysis capabilities. 
 Statistical Analysis: Utilize statistical methods to validate findings and draw meaningful conclusions. 
-Visualization: Visualize key insights using graphs, charts, and plots for better understanding. Recommendations: Based on analysis results, provide actionable recommendations for app developers.
+Visualization: Visualize key insights using graphs, charts, and plots for better understanding. 
+Recommendations: Based on analysis results, provide actionable recommendations for app developers.
