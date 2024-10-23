@@ -1,4 +1,4 @@
-PYTHON DATA ANALYST PROJECT
+PYTHON PROJECT DESCRIPTION & INSIGHTS OVERVIEWS
 
 Python Data Analyst Project: Google Apps Analysis Overview Welcome to my data analyst portfolio project! In this project, I've analyzed Google Apps data to provide recommendations to app developers. By diving into various factors affecting app success, I aim to guide developers in creating apps with maximum installations and higher success rates.
 
